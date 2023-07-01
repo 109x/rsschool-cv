@@ -1,3 +1,3 @@
 # rsschool-cv
 
-it's readme!
+https://109x.github.io/rsschool-cv/cv
