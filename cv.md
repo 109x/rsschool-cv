@@ -1,8 +1,6 @@
 # Ivan Goncharov
 
-### ___Engineer___
-
-
+#### ___Engineer___
 
    *  Email: fairhairx@gmail.com 
    *  Phone: (818)9141008
